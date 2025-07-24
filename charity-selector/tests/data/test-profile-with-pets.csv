@@ -1,0 +1,2 @@
+id,name,state,isMarried,hasChildren,hasPets,age
+123,Test User,NEW_YORK,TRUE,FALSE,TRUE,35

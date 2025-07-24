@@ -1,0 +1,4 @@
+id,name,state,category,featured
+,Missing ID Charity,NEW_YORK,OTHER,NATIONAL
+2,,NEW_YORK,OTHER,NATIONAL
+3,Invalid Featured,NEW_YORK,OTHER,INVALID

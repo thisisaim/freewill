@@ -1,0 +1,2 @@
+id,name,state,isMarried,hasChildren,hasPets,age
+789,John Doe,NEW_YORK,TRUE,FALSE,TRUE,65
